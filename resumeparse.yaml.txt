@@ -1,0 +1,65 @@
+name: resumeparse
+channels:
+- conda-forge
+- defaults
+dependencies:
+- asn1crypto=0.22.0=py36_0
+- ca-certificates=2017.7.27.1=0
+- certifi=2017.7.27.1=py36_0
+- cffi=1.10.0=py36_0
+- chardet=3.0.4=py36_0
+- cryptography=1.9=py36_0
+- idna=2.5=py36_0
+- openssl=1.0.2l=vc14_0
+- pip=9.0.1=py36_0
+- pycparser=2.18=py36_0
+- pyopenssl=17.2.0=py36_0
+- pysocks=1.6.7=py36_0
+- python=3.6.2=0
+- regex=2017.07.28=py36_0
+- requests=2.18.4=py36_1
+- setuptools=36.2.2=py36_0
+- six=1.10.0=py36_1
+- tika=1.15=py36_0
+- urllib3=1.22=py36_0
+- vs2015_runtime=14.0.25420=0
+- wheel=0.29.0=py36_0
+- win_inet_pton=1.0.1=py36_1
+- wincertstore=0.2=py36_0
+- bleach=1.5.0=py36_0
+- colorama=0.3.9=py36_0
+- decorator=4.1.2=py36_0
+- entrypoints=0.2.3=py36_0
+- html5lib=0.9999999=py36_0
+- ipykernel=4.6.1=py36_0
+- ipython=6.1.0=py36_0
+- ipython_genutils=0.2.0=py36_0
+- jedi=0.10.2=py36_2
+- jinja2=2.9.6=py36_0
+- jsonschema=2.6.0=py36_0
+- jupyter_client=5.1.0=py36_0
+- jupyter_core=4.3.0=py36_0
+- markupsafe=1.0=py36_0
+- mistune=0.7.4=py36_0
+- nbconvert=5.2.1=py36_0
+- nbformat=4.4.0=py36_0
+- notebook=5.0.0=py36_0
+- pandocfilters=1.4.2=py36_0
+- path.py=10.3.1=py36_0
+- pickleshare=0.7.4=py36_0
+- prompt_toolkit=1.0.15=py36_0
+- pygments=2.2.0=py36_0
+- python-dateutil=2.6.1=py36_0
+- pyzmq=16.0.2=py36_0
+- simplegeneric=0.8.1=py36_1
+- testpath=0.3.1=py36_0
+- tornado=4.5.1=py36_0
+- traitlets=4.3.2=py36_0
+- wcwidth=0.1.7=py36_0
+- pip:
+  - ipython-genutils==0.2.0
+  - jupyter-client==5.1.0
+  - jupyter-core==4.3.0
+  - prompt-toolkit==1.0.15
+  - win-inet-pton==1.0.1
+prefix: C:\Users\HP\Anaconda3\envs\resumeparse
